@@ -4,6 +4,9 @@ Windows の各種設定を変更します。
 ## DisableSaveZoneInformation
 ゾーン情報を添付ファイルに保存しないようにします。
 
+## JumpListItems_Maximum
+タスク バーのジャンプ リストの最大数を設定します。
+
 ## NoWindowMinimizingShortcuts
 AERO シェイクを無効化します。
 
