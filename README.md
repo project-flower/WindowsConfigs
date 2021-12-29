@@ -1,6 +1,9 @@
 # WindowsConfigs
 Windows の各種設定を変更します。
 
+## DisableLastAccess
+ファイル システムのアクセス日時の更新を無効化します。
+
 ## DisableSaveZoneInformation
 ゾーン情報を添付ファイルに保存しないようにします。
 
